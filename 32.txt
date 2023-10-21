@@ -1,0 +1,11 @@
+32)
+#include <iostream>
+using namespace std;
+
+int main() {
+	float tc, tf;
+	cin >> tc;
+	tf = ((tc * 9) / 5) + 32;
+	cout << tf;
+	return 0;
+}
